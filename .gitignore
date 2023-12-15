@@ -4,4 +4,9 @@
 .env
 .env.production
 .env.staging
+<<<<<<< Updated upstream
 .env.development
+=======
+.env.development
+node_modules
+>>>>>>> Stashed changes
