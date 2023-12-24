@@ -44,6 +44,7 @@ export const links = [
   { text: "Home", path: "/" },
   { text: "About", path: "/about" },
   { text: "Skills", path: "/skills" },
+  { text: "Project", path: "/projects" },
   { text: "Experience", path: "/experience" },
   { text: "Contact", path: "/contact" },
   { text: "Resume", path: "/resume" },
